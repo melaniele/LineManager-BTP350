@@ -1,0 +1,17 @@
+/*
+	==================================================
+	Project - Milestone #3: Reflection
+	==================================================
+	Name   : Thi Hong Minh Le (Melanie)
+	ID     : 103087201
+	Email  : thmle@myseneca.ca
+	Section: BTP305NAA
+	Date   : December 4th, 2021
+
+*/
+
+Personally, learning C++ is a long, challenging, but fun journey. For people who is new to programming like me, I am extremely grateful to have you – professor Cornel as the instructor guiding me through every concept, every workshop, assignment, and test. I was astounded by how tough and convoluted C++ was, yet you patiently, thoroughly, and dedicatedly explained every concept that helped me comprehend things more clearly. The way you did live-coding in the lecture actually helped a lot in the workshops and projects. I wouldn't call them simple, but I had no issue implementing the fundamental concepts you taught us because I was previously familiar with how they might be used in a program. Over the courses of three semesters, I was able to gain a lot of programming expertise. Everything I learned in BTP200 helped to grasp many primary and important concept in BTP100, and it was the foundation for me to learn BTP305. You did not only teach basic concept thoroughly, but you also explained the background process which make it even more interesting and clear. 
+
+Moreover, I was impressed how you as the professor is so devoted in helping each student through every thick and thin. I recall asking you about a bug that I didn't understand in BTP200 during the summer at around 10 p.m. Even though it was extremely late, you saw my message and you replied immediately. You helped me with live debug and that was when I realised how I can use the debugging tool in Visual Studio efficiently. And you demonstrate how we should debug logically by identifying the underlying cause of the problem. I don't want to compare since I understand that all comparisons are relative and not accurate. You, on the other hand, are the best professor I have ever had in Seneca. I want to express my gratitude for all you've taught us, and I wholeheartedly appreciate everything you have done to help us with C++. It is in fact, the most difficult thing I have ever learned, but I honestly did very enjoy learning it with you. I wish you a very good health and successful career filled with many excellent students. 
+
+

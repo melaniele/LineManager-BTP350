@@ -1,0 +1,8 @@
+﻿  CustomerOrder.cpp
+C:\Users\Melanie Le\OneDrive - Seneca\Documents\SEMESTER 3\BTP305\BTP-Project\Project\MS02\CustomerOrder.cpp(117,19): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+  ms2.cpp
+  Station.cpp
+C:\Users\Melanie Le\OneDrive - Seneca\Documents\SEMESTER 3\BTP305\BTP-Project\Project\MS02\Station.cpp(32,33): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Utilities.cpp
+  Generating Code...
+  MS02.vcxproj -> C:\Users\Melanie Le\OneDrive - Seneca\Documents\SEMESTER 3\BTP305\BTP-Project\Project\x64\Debug\MS02.exe
